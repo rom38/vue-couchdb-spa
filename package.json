@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    /"@/components": "*",
+    //"@/components": "*",
     "axios": "0.25.0",
     "lodash": "4.17.21",
     "null": "2.0.0",
